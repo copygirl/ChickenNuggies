@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [ "nnn"
+               , "nnn"
+               , " B " ],
+    "key": {
+        "n": { "item": "chickennuggies:cooked_chicken_nuggie" },
+        "B": { "item": "minecraft:bowl" }
+    },
+    "result": { "item": "chickennuggies:bowl_of_nuggies" }
+}

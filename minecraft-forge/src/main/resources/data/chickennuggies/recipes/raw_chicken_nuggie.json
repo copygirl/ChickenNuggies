@@ -1,0 +1,5 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [ { "item": "minecraft:chicken" } ],
+    "result": { "item": "chickennuggies:raw_chicken_nuggie", "count": 9 }
+}

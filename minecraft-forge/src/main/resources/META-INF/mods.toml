@@ -1,0 +1,12 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="UNLICENSE"
+
+[[mods]]
+modId="chickennuggies"
+version="${file.jarVersion}"
+displayName="ChickenNuggies"
+# logoFile="assets/chickennuggies/textures/logo.png"
+credits="Created as a result of a donation goal being met on saltysoya's Valentine's Day charity Twitch stream (for mind.org.uk)."
+authors="copygirl, Pixel"
+description="Adds chicken nuggies to the game which can be crafted from raw chicken and such."

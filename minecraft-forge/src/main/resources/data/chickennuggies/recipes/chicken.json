@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [ "###"
+               , "###"
+               , "###" ],
+    "key": { "#": { "item": "chickennuggies:raw_chicken_nuggie" } },
+    "result": { "item": "minecraft:chicken" }
+}

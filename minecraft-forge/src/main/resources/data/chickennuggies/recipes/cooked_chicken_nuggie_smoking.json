@@ -1,0 +1,7 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": { "item": "chickennuggies:raw_chicken_nuggie" },
+    "experience": 0.20,
+    "cookingtime": 100,
+    "result": "chickennuggies:cooked_chicken_nuggie"
+}
